@@ -5,7 +5,7 @@ Contains some functionality targetted at c++ when compiling for the browser
 */
 
 #pragma once
-#include "util_std.hpp"
+#include "vicmil_pip_cppBasics_std2.hpp"
 
 /*
 When using emscripten and compiling to webassembly, it is possible to call javascript functions from c++
